@@ -1,0 +1,5 @@
+Git commmands
+
+Config the user name in git
+$ git config --global user.name ='hidhayat'
+$ git config --global user.email = 'hidhayathullah.a@gmail.com'
