@@ -20,3 +20,6 @@ To know the status
 
 $ git status
 
+To revok the changes/restore the changes
+
+$ git restore 'file name'
