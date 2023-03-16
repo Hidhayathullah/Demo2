@@ -32,3 +32,5 @@ there are two type
 
 $ git reset --hard <revision id> #if you reset with hard reset lose the tracking with data
 $ git reset --soft<revision Id> or git reset <revision ID> # both of the comments are soft reset where tracking only lose data available
+
+df  mjorj nreegi ijer
