@@ -23,3 +23,12 @@ $ git status
 To revok the changes/restore the changes
 
 $ git restore 'file name'
+
+revert to previous version
+
+there are two type 
+1. hard reset 
+2. soft reset
+
+$ git reset --hard <revision id> #if you reset with hard reset lose the tracking with data
+$ git reset --soft<revision Id> or git reset <revision ID> # both of the comments are soft reset where tracking only lose data available
